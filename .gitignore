@@ -1,0 +1,18 @@
+# Build outputs
+app
+*.o
+*.dSYM/
+
+# Local scenes and large data
+*.ply
+
+# Editor and OS noise
+.DS_Store
+.cache/
+.vscode/
+.zed/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
